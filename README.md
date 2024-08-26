@@ -94,11 +94,7 @@ While this application is specifically designed for computer vision models, it c
 This structure ensures that users can easily understand the purpose of the application and how to use it effectively.
 
 ## Repository Files
-
 This section highlights the most important files and their applications.
-
-### tuning-logs
-This directory contains the logs of various tuning runs, which are used to test different TVM tuning settings and batch configurations.
 
 ### tvm_report
 This directory holds the core components of the application:
